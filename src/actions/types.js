@@ -1,0 +1,1 @@
+export const LOAD_CHAT = 'load_chat';
